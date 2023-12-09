@@ -8,5 +8,5 @@ Here are some things about me:
 - 🔭 I’m currently working on tugva
 - 🌱 I’m currently learning software
 - 📫 How to reach me: ssevdeyt
-- 😄 Pronouns: she/her
+- 😄 Pronouns: she
 
